@@ -1,5 +1,6 @@
 
 .app {
+    display: -webkit-flex;
     display: flex;
 }
 
