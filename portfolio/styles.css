@@ -1,4 +1,8 @@
 
+.app {
+    display: flex;
+}
+
 .screenshot {
     max-width: 460px;
 }
