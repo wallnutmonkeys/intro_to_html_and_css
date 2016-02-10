@@ -9,6 +9,7 @@ h1 {
 
 .row {
     width:100%;
+    display: flex;
 }
 
 .col-1 {
