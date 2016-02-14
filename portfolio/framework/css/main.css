@@ -3,9 +3,6 @@
     outline: 1px solid red;
 }
 
-h1 {
-    color: green;
-}
 
 .row {
     width:100%;
@@ -60,9 +57,38 @@ h1 {
     width:100%;
 }
 
-@media only screen and (max-width:500px) and (orientation: landscape){
- 
-    p {
-        display: none;
-    }
+h1 {
+    text-align: right;
+    font-family: 'NTR', sans-serif;
+    margin: 0px;
+    margin-bottom: -20px;
+    color: #777777;
+}
+
+h2 {
+    font-family: 'NTR', sans-serif;
+    color: #BCBBBB;
+    margin: 10px;
+    margin-bottom: -10px;
+    
+}
+
+h3 {
+    font-family: 'NTR', sans-serif;
+    color: #777777;
+    text-align: center;
+    
+}
+
+h5 {
+    text-align: right;
+    font-family: 'NTR', sans-serif;
+    margin: 0px;
+    color: #777777;
+}
+
+.centeredimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
